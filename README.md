@@ -1,9 +1,9 @@
 # Image-Drawer
 Draw Amazing Drawings Using this tool.
 
-Download Image-Drawer [here](https://github.com/iamvsz/MyFiles/raw/main/ImageDrawerConsole.zip) (Console Based)
+Download Image-Drawer [LINK1](https://github.com/iamvsz/MyFiles/raw/main/ImageDrawerConsole.zip) (Console Based)
 || 
-[Link2](https://github.com/iamvsz/MyFiles/raw/main/ImageDrawerWindows.zip) (Windows Based)
+[LINK2](https://github.com/iamvsz/MyFiles/raw/main/ImageDrawerWindows.zip) (Windows Based)
 
 ### Following are some amazing Drawings, drawn using this Image -Drawer Tool.
 
